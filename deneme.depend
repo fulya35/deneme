@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1363828965 source:c:\users\ege\documents\github\deneme\main.c
+	<stdio.h>
+	<stdlib.h>
+
