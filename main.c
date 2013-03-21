@@ -4,5 +4,7 @@
 int main()
 {
     printf("Hello world!\n");
+    printf("git calismasi");
+
     return 0;
 }
