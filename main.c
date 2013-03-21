@@ -5,6 +5,7 @@ int main()
 {
     printf("Hello world!\n");
     printf("git calismasi");
+    printf("fulyaaa!");
 
     return 0;
 }
